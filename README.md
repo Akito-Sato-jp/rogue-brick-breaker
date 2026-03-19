@@ -2,7 +2,11 @@
 Pythonとtkinterで制作した、ローグライク要素を取り入れた進化型ブロック崩しです。
 
 ## 🎥 動作デモ
-https://github.com/Akito-Sato-jp/rogue-brick-breaker/assets/user-attachments/rogue-like.mp4
+https://github.com/Akito
+
+https://github.com/user-attachments/assets/1c7778c0-bb3e-446e-97d1-620123384025
+
+-Sato-jp/rogue-brick-breaker/assets/user-attachments/rogue-like.mp4
 
 > [!TIP]
 > 動画が表示されない場合は、リポジトリ内の `rogue-like.mp4` を直接ご覧ください。
