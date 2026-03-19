@@ -2,7 +2,6 @@
 Pythonとtkinterで制作した、ローグライク要素を取り入れた進化型ブロック崩しです。
 
 ## 🎥 動作デモ
-https://github.com/Akito
 
 https://github.com/user-attachments/assets/1c7778c0-bb3e-446e-97d1-620123384025
 
