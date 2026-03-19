@@ -6,8 +6,6 @@ https://github.com/Akito
 
 https://github.com/user-attachments/assets/1c7778c0-bb3e-446e-97d1-620123384025
 
--Sato-jp/rogue-brick-breaker/assets/user-attachments/rogue-like.mp4
-
 > [!TIP]
 > 動画が表示されない場合は、リポジトリ内の `rogue-like.mp4` を直接ご覧ください。
 > プレイごとにランダムに出現する強化を選択し、自分だけの「ビルド」で攻略する戦略的ブロック崩しです。
