@@ -27,3 +27,9 @@ https://github.com/user-attachments/assets/1c7778c0-bb3e-446e-97d1-620123384025
 1. 本リポジトリをクローンまたはダウンロードします。
 2. 以下のコマンドで実行してください。
    `python block.py`
+
+🤖 AI-Assisted Development
+This project was developed with the assistance of AI (Google Gemini / GitHub Copilot).
+I used AI for brainstorming algorithms, debugging complex errors, and optimizing code structure, while maintaining full control over the final architecture and logic.
+
+（このプロジェクトはAIの支援を受けて開発しました。アルゴリズムの検討、デバッグ、コードの最適化にAIを活用し、最終的な設計やロジックの検証はすべて自身で行っています。）
