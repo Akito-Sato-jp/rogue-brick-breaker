@@ -28,8 +28,7 @@ https://github.com/user-attachments/assets/1c7778c0-bb3e-446e-97d1-620123384025
 2. 以下のコマンドで実行してください。
    `python block.py`
 
-🤖 AI-Assisted Development
-This project was developed with the assistance of AI (Google Gemini / GitHub Copilot).
-I used AI for brainstorming algorithms, debugging complex errors, and optimizing code structure, while maintaining full control over the final architecture and logic.
+🤖 To maximize development efficiency, this project fully utilized AI tools for code generation. On the other hand, I independently managed the vast majority of the development lifecycle—ranging from requirements definition, screen transitions, and feature design, to crafting precise prompts, integrating the generated code, and handling final debugging and quality assurance.
 
-（このプロジェクトはAIの支援を受けて開発しました。アルゴリズムの検討、デバッグ、コードの最適化にAIを活用し、最終的な設計やロジックの検証はすべて自身で行っています。）
+（本プロジェクトでは、開発効率を最大化するため、コードの自動生成にAIを全面的に活用しています。
+一方で、要件定義、画面遷移や機能の設計、AIへの正確なプロンプト構築、出力されたコードの統合、および最終的なデバッグや動作検証に至るまで、開発プロセスの大半は自身が主体となって一貫して行いました。）
